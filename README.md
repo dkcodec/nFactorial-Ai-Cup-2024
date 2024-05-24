@@ -1,11 +1,9 @@
 # nFactorial-Ai-Cup-2024
 Fork this repository and build nFactorial Ai Cup 2024 projects 
 
-## < Your Name >
-### < Kairgeldin Dmitriy />
+## Kairgeldin Dmitriy 
 
-## < Your App's Name >
-### < Isimo >
+## Isimo 
 
 ## < Your App's description, technical considerations, etc. >
 Next.js + React.js + JS
